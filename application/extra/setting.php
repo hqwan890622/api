@@ -5,7 +5,7 @@
  */
 return [
 
-    "img_prefix"=>"http://10.1.1.193:8073/static/images"
+    "img_prefix"=>"http://www.52hr.com/static/images"
 
 
 ];
