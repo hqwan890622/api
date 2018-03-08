@@ -7,10 +7,4 @@ return [
 
     "img_prefix"=>"http://www.52hr.ren/static/images"
 
-
-
-
-
-
-
 ];
